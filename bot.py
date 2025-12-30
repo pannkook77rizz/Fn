@@ -56,4 +56,4 @@ async def sendparty(ctx, *, msg):
     if ctx.author.name == config['owner_name'] and fn_instance:
         await fn_instance.party.send(msg)
 
-bot.run(config['discord_token'])
+bot.run(config['MTQ0NDM0OTUwMDA3MTA4ODIzOQ.G8yls-.wMrl7H4g5pHoWYs55TeLWpoLmfdCSLedp_Q_KY'])
