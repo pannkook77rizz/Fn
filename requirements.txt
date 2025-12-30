@@ -1,0 +1,5 @@
+discord.py
+rebootpy
+aiohttp
+pytz
+aioconsole
